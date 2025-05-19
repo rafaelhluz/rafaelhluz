@@ -7,7 +7,7 @@
 ---
 
 ## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelhluz&show_icons=true&theme=radical)
 
 ---
 
