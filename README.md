@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Rafael
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💼 Estagiário de Desenvolvimento na Global Estratégias Financeiras  
+💼 Estagiário de Desenvolvimento na Global  
 🛠️ Experiência com: Java | .NET | React | SQL Server | JavaScript | Node.JS  
 
 ---
