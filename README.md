@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou o Rafael
+# Olá! Eu sou o Rafael
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💼 Estagiário de Desenvolvimento na Global  
-🛠️ Experiência com: Java | C# | .NET | API | React | SQL Server | JavaScript | Node.JS  
+Desenvolvedor Full Stack 
+Estudante de Análise e Desenvolvimento de Sistemas   
+Experiência com: Java | C# | .NET | API | React | SQL Server | JavaScript | Node.JS  
 
 ---
 
