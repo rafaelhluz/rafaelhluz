@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💼 Estagiário de Desenvolvimento na Global  
-🛠️ Experiência com: Java | .NET | React | SQL Server | JavaScript | Node.JS  
+🛠️ Experiência com: Java | C# | .NET | API | React | SQL Server | JavaScript | Node.JS  
 
 ---
 
